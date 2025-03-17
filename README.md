@@ -4,7 +4,7 @@ This resource was made possible through funding provided under the Epidemiology 
 [**Training**](Training/Training.md)
 
 Mountain Region Members:
-![Logo of AMD Mountain region showing all member states in various colors. Text reads "AMD Training Lead and Bioninformatics Regional Resource"](Misc/Copy of AMD-logo-01.jpg)
+![Logo of AMD Mountain region showing all member states in various colors. Text reads "AMD Training Lead and Bioninformatics Regional Resource"](Miscellaneous/Copy of AMD-logo-01.jpg)
 * Utah (Bioinformatics Regional Resource (BRR) Bioinformatics Training Lead (BTL))
 * Colorado (Bioinformatics Regional Resource (BRR) Bioinformatics Training Lead (BTL))
 * Montana
@@ -15,7 +15,7 @@ Mountain Region Members:
 * Texas
 
 ### Meetings
-[2025 AMD Mountain Regional Bioinformatics Conference](AMDCon2025/AMDCon2025.md)
+[2025 AMD Mountain Regional Bioinformatics Conference](MT_AMDCon2025/MT_AMDCon2025.md)
 
 ### Relevant Links
 [CDC's Advanced Molecular Detection (AMD) program](https://www.cdc.gov/advanced-molecular-detection/about/?CDC_AAref_Val=https://www.cdc.gov/amd/who-we-are/index.html)\
