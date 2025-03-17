@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+This resource was made possible through funding provided under the Epidemiology and Laboratory Capacity for Prevention and Control of Emerging Infectious Diseases (ELC) Cooperative Agreement (CK24-0002), Project D: Advanced Molecular Detection to the Utah Department of Health and Human Services. The conclusions, findings, and opinions expressed by authors do not necessarily reflect the official position of the U.S. Department of Health and Human Services, the Public Health Service, or the Centers for Disease Control and Prevention.
 
-You can use the [editor on GitHub](https://github.com/StaPH-B/mountain-region/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Bioinformatics Resources for the AMD Mountain Region
+[**Training**](Training/Training.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mountain Region Members:
+![Logo of AMD Mountain region showing all member states in various colors. Text reads "AMD Training Lead and Bioninformatics Regional Resource"](Misc/Copy of AMD-logo-01.jpg)
+* Utah (Bioinformatics Regional Resource (BRR) Bioinformatics Training Lead (BTL))
+* Colorado (Bioinformatics Regional Resource (BRR) Bioinformatics Training Lead (BTL))
+* Montana
+* Idaho
+* Wyoming
+* New Mexico
+* Arizona
+* Texas
 
-### Markdown
+### Meetings
+[2025 AMD Mountain Regional Bioinformatics Conference](AMDCon2025/AMDCon2025.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Relevant Links
+[CDC's Advanced Molecular Detection (AMD) program](https://www.cdc.gov/advanced-molecular-detection/about/?CDC_AAref_Val=https://www.cdc.gov/amd/who-we-are/index.html)\
+[StaPH-B (State Public Health Bioinformatics) Group](https://linktr.ee/staphb)
 
-```markdown
-Syntax highlighted code block
+## Contact your BRR/co-WFD Leads
+**Erin Young**, PhD\
+[eriny@utah.gov](eriny@utah.gov)\
+Bioinformatician\
+Utah Public Health Laboratory\
+Utah State Department of Health and Human Services
 
-# Header 1
-## Header 2
-### Header 3
+**Abbey Marye**, MPH\
+[amarye@utah.gov](amarye@utah.gov)\
+Genomic Epidemiologist\
+Utah Public Health Laboratory\
+Utah State Department of Health and Human Services
 
-- Bulleted
-- List
+**Shannon Matzinger**, PhD\
+[shannon.matzinger@state.co.us](shannon.matzinger@state.co.us)\
+Genomic Surveillance Program Manager\
+Colorado Public Health Laboratory\
+Colorado Department of Public Health and Environment
 
-1. Numbered
-2. List
+**Molly Hetherington-Rauth**, MSc\
+[molly.hetheringtonrauth@state.co.us](molly.hetheringtonrauth@state.co.us)\
+Bioinformatician\
+Colorado Public Health Laboratory\
+Colorado Department of Public Health and Environment
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StaPH-B/mountain-region/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Laura Bankers**, PhD\
+[laura.bankers@state.co.us](laura.bankers@state.co.us)\
+Bioinformatics and Genomic Analysis Supervisor\
+Colorado Public Health Laboratory\
+Colorado Department of Public Health and Environment
