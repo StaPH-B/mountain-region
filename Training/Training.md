@@ -1,8 +1,4 @@
 # Training
-## Links to sections:
-[General Concepts in Genomic Epidemiology](#general-concepts-in-genomic-epidemiology)\
-[Bacterial and Viral Genomics](#bacterial-and-viral-genomics)\
-[Phylogenetics](#phylogenetics)
 
 ## General Concepts in Genomic Epidemiology
 If you would like an overview of the general concepts of genomic epidemiology, click below to review the written resource:\
@@ -24,3 +20,7 @@ If you would like an overview of phylogenetics, click below to review the writte
 
 Other resources are available below:\
 *
+
+## Bioinformatics
+[Exercism](https://exercism.org/) - A website with a variety of exercises in several coding languages to help you develop fluency. 
+[Rosalind](https://rosalind.info/problems/list-view/) - A platform for learning bioinformatics and programming through problem solving. 
