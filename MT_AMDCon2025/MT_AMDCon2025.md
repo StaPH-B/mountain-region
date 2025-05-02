@@ -30,7 +30,7 @@ states are implementing these techniques.
 * H5N1 Wastewater Surveillance (Shannon Matzinger)
 * Metagenomics (Kelly Oakeson)
 
-**Session 6: Hands-on Microreact Training**
+**Session 6: [Hands-on Microreact Training](Microreact Training.zip)**
 * Using NCBI’s Pathogen Detection with Erin Young
 
 **Session 7: Lab Tour**
