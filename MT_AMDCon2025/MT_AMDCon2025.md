@@ -15,7 +15,7 @@ states are implementing these techniques.
 * [COVID Cluster Analysis](COVID-19 Cluster Analysis.pdf) (Abbey Marye)
 
 **Session 2: Microbial Genetics**
-*  [NCBI Cluster Tracker](SamBairdAMDMountain2025.pdf) (Samuel Baird)
+*  NCBI Cluster Tracker (Samuel Baird)
 *  Bioinformatics Toolbox at WPHL (Robert Petit)
 
 **Session 3: Individual State Case Studies**
