@@ -11,16 +11,17 @@ states are implementing these techniques.
 
 ### Tuesday April 22, 2025
 **Session 1: Uses of Genomic Epidemiology in Public Health Laboratories**
-* Creation anf Use of Live Dashboards for Enteric Pathogens (Mary Jewel)
-* COVID Cluster Analysis (Abbey Marye)
+* [AMD Mtn Regional Conf - Enteric Genomic Dashboard.pptx.pdf](Creation anf Use of Live Dashboards for Enteric Pathogens (Mary Jewel))
+* [COVID-19 Cluster Analysis.pdf](COVID Cluster Analysis (Abbey Marye))
 
 **Session 2: Microbial Genetics**
-*  NCBI Cluster Tracker (Samuel Baird)
+*  [SamBairdAMDMountain2025.pdf](NCBI Cluster Tracker (Samuel Baird))
 *  Bioinformatics Toolbox at WPHL (Robert Petit)
 
 **Session 3: Individual State Case Studies**
-* Wyoming: Optimizing bioinformatic tools to quickly identify and differentiate bacterial isolates and to contribute to hospital infection control (Rob Christensen, Robert Petit)
-* Arizona: Rabies virus long-read sequencing and automated bioinformatics workflow for routine surveillance (Austin Rueda)
+* Colorado: Highly Pathogenic Avian Influenza (H5N1) in Cats and Raw Poultry (Molly Hetherington-Rauth)
+* Colorado: Neisseria meningitidis outbreak in Denver, Colorado (Laura Bankers)
+* Arizona: [ASPHL RABV Sequencing Presentation.pdf](Rabies virus long-read sequencing and automated bioinformatics workflow for routine surveillance) (Austin Rueda)
 
 **Session 4: Panel Discussion**
 
