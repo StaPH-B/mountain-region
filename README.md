@@ -40,12 +40,6 @@ Genomic Surveillance Program Manager\
 Colorado Public Health Laboratory\
 Colorado Department of Public Health and Environment
 
-**Molly Hetherington-Rauth**, MSc\
-[molly.hetheringtonrauth@state.co.us](molly.hetheringtonrauth@state.co.us)\
-Bioinformatician\
-Colorado Public Health Laboratory\
-Colorado Department of Public Health and Environment
-
 **Laura Bankers**, PhD\
 [laura.bankers@state.co.us](laura.bankers@state.co.us)\
 Bioinformatics and Genomic Analysis Supervisor\
