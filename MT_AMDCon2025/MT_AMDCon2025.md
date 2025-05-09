@@ -16,7 +16,7 @@ states are implementing these techniques.
 
 **Session 2: Microbial Genetics**
 *  NCBI Cluster Tracker (Samuel Baird)
-*  Bioinformatics Toolbox at WPHL (Robert Petit)
+*  [Bioinformatics Toolbox at WPHL](rp3-wphl-binf-toolkit-april2025.pptx.pdf) (Robert Petit)
 
 **Session 3: Individual State Case Studies**
 * Colorado: Highly Pathogenic Avian Influenza (H5N1) in Cats and Raw Poultry (Molly Hetherington-Rauth)
