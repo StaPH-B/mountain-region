@@ -28,7 +28,7 @@ states are implementing these techniques.
 ### Wednesday April 23, 2025
 **Session 5: Emerging Uses of sequencing and Other Hot Topics**
 * H5N1 Wastewater Surveillance (Shannon Matzinger)
-* Metagenomics (Kelly Oakeson)
+* [Metagenomics](2025_Mountain_region_training_metagenomics.pdf) (Kelly Oakeson)
 
 **Session 6: [Hands-on Microreact Training](Microreact Training.zip)**
 * Using NCBI’s Pathogen Detection with Erin Young
